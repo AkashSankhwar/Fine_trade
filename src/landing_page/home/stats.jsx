@@ -18,7 +18,7 @@ function Stats() {
 
                 </div>
                 <div className="col-6">
-                    
+                     
                 </div>
             </div>
         </div>
