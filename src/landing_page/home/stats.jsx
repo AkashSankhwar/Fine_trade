@@ -1,4 +1,5 @@
 import React from "react";
+
 function Stats() {
   return (
     <div className="container p-3">
@@ -18,7 +19,7 @@ function Stats() {
             philosophies.
           </p>
           <h3>The Zerodha universe</h3>
-          <p className="mb-2 text-muted ">
+          <p className="mb-2 text-muted">
             Not just an app, but a whole ecosystem. Our investments in 30+
             fintech startups offer you tailored services specific to your needs.
           </p>
@@ -30,13 +31,13 @@ function Stats() {
           </p>
         </div>
         <div className="col-6 p-3">
-          <img src="media/images/ecosystem.png" style={{ width: "90%" }} />
+          <img src="media/images/ecosystem.png" style={{ width: "90%" }} alt="ecosystem" />
           <div>
             <a href="" className="mx-5">
-              Explore our products <i class="fa-solid fa-arrow-right-long"></i>
+              Explore our products <i className="fa-solid fa-arrow-right-long"></i>
             </a>
             <a href="">
-              Try Kite <i class="fa-solid fa-arrow-right-long"></i>
+              Try Kite <i className="fa-solid fa-arrow-right-long"></i>
             </a>
           </div>
         </div>
