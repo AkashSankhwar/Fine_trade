@@ -6,7 +6,7 @@ function Navbar() {
     <div>
       <nav className="navbar navbar-expand-lg bg-body-tertiary border-bottom">
         <div className="container-fluid">
-          <Link className="navbar-brand" to="#">
+          <Link className="navbar-brand" to="/">
             <img src="media/images/logo.svg" style={{ width: "25%" }} alt="logo" />
           </Link>
           <button
